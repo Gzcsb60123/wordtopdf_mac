@@ -1,3 +1,0 @@
-([('WordToPDF',
-   '/Users/mac/Downloads/wordtopdf_2.0/wordtopdf_mac/dist/WordToPDF',
-   'EXECUTABLE')],)
