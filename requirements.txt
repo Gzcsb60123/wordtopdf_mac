@@ -1,0 +1,2 @@
+# No external Python package dependencies required
+# Project relies on standard library: tkinter, subprocess, os

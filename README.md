@@ -7,6 +7,8 @@
 - 自动生成输入文件夹（输入文件夹存放准备转换的word文档）和输出文件夹（输出文件夹用于存放转换生成的pdf文件）；
 - 任意指定输入文件夹和输出文件夹；
 - word文档支持的格式为.doc,.docx.
+## Screenshot
+![Screenshot](images/screenshot.png)
  
 ## 安装使用
 ```bash
@@ -29,3 +31,7 @@ DEFAULT_OUTPUT_FOLDER = "~/Documents/output"%
  
 # 启动项目
 npm run dev
+
+#打包程序下载
+## Download
+- [WordToPDF.app](WordToPDF.app)
