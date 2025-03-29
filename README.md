@@ -21,13 +21,13 @@ git clone https://github.com/Gzcsb60123/wordtopdf_mac.git
 # LibreOffice 的 macOS 默认安装路径
 LIBREOFFICE_PATH = "/Applications/LibreOffice.app/Contents/MacOS/soffice"
 - Python 3.11 (or compatible version)
-- LibreOffice (for Word to PDF conversion)
+- LibreOffice (for Word to PDF conversion) #macos版本下载链接   
   - On macOS: Install via `brew install --cask libreoffice` or download from [Download LibreOffice for macOS](https://downloadarchive.documentfoundation.org/libreoffice/old/24.2.7.2/mac/x86_64/LibreOffice_24.2.7.2_MacOS_x86-64.dmg)
 
 
 # 默认输入和输出文件夹（使用 macOS 的用户主目录）
 DEFAULT_INPUT_FOLDER = "~/Documents/input"
-DEFAULT_OUTPUT_FOLDER = "~/Documents/output"%
+DEFAULT_OUTPUT_FOLDER = "~/Documents/output"
  
 # 启动项目
 npm run dev
